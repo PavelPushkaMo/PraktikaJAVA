@@ -1,4 +1,4 @@
-package ru.mirea.praktika1;
+package ru.mirea.praktika1_1;
 
 import java.util.Scanner;
 
