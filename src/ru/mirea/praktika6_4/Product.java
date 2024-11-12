@@ -1,4 +1,4 @@
-package ru.mirea.praktika6;
+package ru.mirea.praktika6_4;
 
 public class Product implements Priceable {
     private String name;

@@ -1,8 +1,4 @@
-package ru.mirea.praktika6;
-
-import ru.mirea.praktika6.Priceable;
-import ru.mirea.praktika6.Product;
-import ru.mirea.praktika6.Service;
+package ru.mirea.praktika6_4;
 
 public class Main {
     public static void main(String[] args) {
